@@ -27,5 +27,8 @@
 
     "permissions": [
         "https://*/*"
-    ]
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
 }
